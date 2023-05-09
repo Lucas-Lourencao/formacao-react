@@ -1,0 +1,5 @@
+Modo 01: 
+>>> npm create vite@latest;
+
+Modo 02: 
+>>> npm create vite@latest projetoComVite -- --template react;
